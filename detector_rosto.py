@@ -18,7 +18,7 @@ def rosto_detectado():
         print("Erro ao capturar imagem.")
         return False
 
-    # Converte para RGB (MediaPipe exige)
+    # Faz a conversão para RGB porque o MediaPipe exige
     imagem_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
 
     # Inicia o detector de rostos

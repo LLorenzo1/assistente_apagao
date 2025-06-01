@@ -26,7 +26,7 @@ with mp_face_detection.FaceDetection(min_detection_confidence=0.6) as face_detec
         results = face_detection.process(image_rgb)
 
         if results.detections:
-            falar("Presença detectada. Você pode me dar os comandos, caso não saiba quais são, diga ajuda para eu te ajudar.")
+            falar("Presença detectada. Você pode me dar os comandos, caso não saiba quais são, diga ajuda para que eu possa te ajudar.")
 
             while True:
                 comando = escutar_comando()

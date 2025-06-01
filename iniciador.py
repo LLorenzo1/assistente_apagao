@@ -26,7 +26,7 @@ try:
         time.sleep(2)  # Espera 2 segundos antes de checar de novo
 
 except KeyboardInterrupt:
-    print("\nMonitoramento interrompido pelo usuário.")
+    print("\nMonitoramento foi interrompido pelo usuário.")
 
 finally:
     cap.release()
