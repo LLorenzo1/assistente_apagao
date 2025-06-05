@@ -1,17 +1,17 @@
-# 💡 Assistente de Apagão com Detecção de Presença e Voz
+# Assistente de Apagão com Detecção de Presença e Voz
 
 Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software na FIAP (5º semestre), com o objetivo de criar uma solução prática para situações de falta de energia elétrica.
 
-## ⚙️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
-- 🐍 Python 3.10  
-- 🎙️ SpeechRecognition (com Google API)  
-- 🧠 MediaPipe (para detecção de rosto)  
-- 🔊 pyttsx3 (resposta por voz)  
-- 🖥️ OpenCV (captura de vídeo)  
-- 💡 Simulação de lanterna e sons  
+- Python 3.10  
+- SpeechRecognition (com Google API)  
+- MediaPipe (para detecção de rosto)  
+- pyttsx3 (resposta por voz)  
+- OpenCV (captura de vídeo)  
+- Simulação de lanterna e sons  
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver um assistente inteligente que:
 
@@ -20,7 +20,7 @@ Desenvolver um assistente inteligente que:
 - Escuta comandos por **voz** e responde com **fala**.  
 - Realiza ações úteis durante apagões.
 
-## 🧠 Como funciona
+## Como funciona
 
 1. O script `iniciador.py` monitora constantemente a **luminosidade do ambiente**.  
 2. Ao detectar que está escuro, ele executa automaticamente o `main.py`.  
@@ -34,7 +34,7 @@ Desenvolver um assistente inteligente que:
    - **"quanto tempo"** → Responde um tempo estimado do apagão  
    - **"ajuda"** → Informa todos os comandos disponíveis  
 
-## 🖥️ Execução do projeto
+## Execução do projeto
 
 ### 1. Clone o repositório
 
@@ -81,7 +81,7 @@ Execute o monitor de luminosidade (ele iniciará o assistente automaticamente qu
 python iniciador.py
 ```
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 assistente_apagao/
@@ -95,7 +95,11 @@ assistente_apagao/
 └── README.md               # Documentação
 ```
 
-## 👨‍💻 Desenvolvedores
+## Link apresentação
+
+https://youtu.be/I14bKKunp74
+
+## Desenvolvedores
 
 **Nomes:** Lorenzo, André, Felipe  
 **Curso:** Engenharia de Software – FIAP  
