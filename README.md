@@ -101,6 +101,6 @@ https://youtu.be/I14bKKunp74
 
 ## Desenvolvedores
 
-**Nomes:** Lorenzo, André, Felipe  
+**Nomes:** Lorenzo Ferreira (RM 97318), André Lambert (RM 99148), Felipe Cortez (RM 99750)  
 **Curso:** Engenharia de Software – FIAP  
 **Semestre:** 5º
