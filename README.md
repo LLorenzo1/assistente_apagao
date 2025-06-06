@@ -2,6 +2,18 @@
 
 Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software na FIAP (5º semestre), com o objetivo de criar uma solução prática para situações de falta de energia elétrica.
 
+## Desenvolvedores
+
+**Nomes:** Lorenzo Ferreira (RM 97318), André Lambert (RM 99148), Felipe Cortez (RM 99750)  
+**Curso:** Engenharia de Software – FIAP  
+**Semestre:** 5º
+
+
+## Link apresentação
+
+https://youtu.be/I14bKKunp74
+
+
 ## Tecnologias utilizadas
 
 - Python 3.10  
@@ -95,12 +107,3 @@ assistente_apagao/
 └── README.md               # Documentação
 ```
 
-## Link apresentação
-
-https://youtu.be/I14bKKunp74
-
-## Desenvolvedores
-
-**Nomes:** Lorenzo Ferreira (RM 97318), André Lambert (RM 99148), Felipe Cortez (RM 99750)  
-**Curso:** Engenharia de Software – FIAP  
-**Semestre:** 5º
